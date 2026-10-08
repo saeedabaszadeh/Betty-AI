@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Betty AI</string>
+    <string name="betty_greeting">سلام، من بتی هستم</string>
+    <string name="betty_tagline">دستیار صوتی هوشمند شما</string>
+
+    <!-- Foreground service -->
+    <string name="service_channel_name">Betty Assistant</string>
+    <string name="service_channel_description">Keeps Betty ready to listen</string>
+    <string name="service_notification_title">Betty is active</string>
+    <string name="service_notification_text">Tap to open Betty</string>
+
+    <!-- Notification channel for Betty messages -->
+    <string name="betty_channel_name">Betty</string>
+    <string name="betty_channel_description">Notifications from Betty assistant</string>
+</resources>
